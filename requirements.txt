@@ -1,0 +1,7 @@
+streamlit
+faster-whisper
+tts
+deep-translator
+sounddevice
+numpy
+scipy

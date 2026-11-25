@@ -1,0 +1,11 @@
+venv_310/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+*.wav
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
